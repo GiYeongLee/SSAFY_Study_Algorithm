@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.ssafy.in&apos; to &apos;com.ssafy.im&apos;&#x0D;&#x0A;- Original project: &apos;0128_Algorithm&apos;&#x0D;&#x0A;- Original element: &apos;0128_Algorithm/src/com.ssafy.in&apos;&#x0D;&#x0A;- Renamed element: &apos;0128_Algorithm/src/com.ssafy.im&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.ssafy.in&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.ssafy.in" name="com.ssafy.im" qualified="false" references="true" stamp="1643535196041" textual="false" version="1.0"/>
+</session>

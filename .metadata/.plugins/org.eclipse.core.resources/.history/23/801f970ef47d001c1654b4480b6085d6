@@ -1,0 +1,16 @@
+package com.ssafy.im;
+
+import java.util.Scanner;
+
+public class IM_2056_연월일달력 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int TC = sc.nextInt();
+		for(int t = 1; t <= TC; t++) {
+			String str = sc.nextLine();
+			String month = str.substring(4, 5);
+			String date = str.substring(6, 7);
+			System.out.println(month + " " + date);
+		}
+	}
+}

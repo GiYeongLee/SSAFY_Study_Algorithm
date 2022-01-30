@@ -1,0 +1,36 @@
+package com.ssafy.im;
+
+import java.util.Scanner;
+
+public class IM_1989_초심자의회문검사 {
+	
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		for(int tc = 0; tc < sc.nextInt(); tc++) {
+			
+			String str = sc.next();
+			
+			boolean flag;
+			
+			for(int i = 0; i < str.length() / 2; i++){	
+				if(str.charAt(i) == str.charAt(str.length() - 1)) {
+					flag = true;
+					continue;
+				}
+				else {
+					flag = false;
+					break;
+				}
+			}
+			if(flag = true) {
+				System.out.println("#" + (tc + 1) + " " + 1);
+			}
+			else {
+				System.out.println("#" + (tc + 1) + " " + 1);
+			}
+			
+		}
+	}
+	
+}
