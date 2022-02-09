@@ -13,9 +13,7 @@ public class BOJ_2578_빙고 {
 		
 		for(int i = 0; i < 5; i++) {
 			String[] splited = in.readLine().split(" ");
-			for(int j = 0; j < 5; j++) {
-				grid[i][j] = Integer.parseInt(splited[j]);
-			}
+			for(int j = 0; j < 5; j++) grid[i][j] = Integer.parseInt(splited[j]);
 		}
 		
 		int ans = 0;
