@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class BJ_2665_수이어가기 {
+public class BJ_2635_수이어가기 {
 	
 	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws NumberFormatException, IOException {
