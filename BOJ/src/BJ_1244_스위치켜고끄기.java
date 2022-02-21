@@ -1,4 +1,3 @@
-import java.util.*;
 import java.io.*;
 
 public class BJ_1244_스위치켜고끄기 {
