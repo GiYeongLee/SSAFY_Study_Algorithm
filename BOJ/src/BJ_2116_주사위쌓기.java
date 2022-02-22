@@ -1,9 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-
 public class BJ_2116_주사위쌓기 {
-	
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 
@@ -31,7 +29,7 @@ public class BJ_2116_주사위쌓기 {
 			
 			for(int i = 1; i < N; i++) {	// 주사위의 개수만큼
 				for(int j = 0; j < 6; j++) {
-					if(dice[i][j] == select) {	// 주사위 중 select와 같은 값을 찾기
+					if(dice[i][j] == select) {	// 주사위 중 select와 같은 값을 찾기 ( 아랫면 윗면 상관 X )
 						sum += findMax(dice[i], select, j);	// 아랫면, 윗면을 제외한 최대값을 sum에 덧셈
 						if(j < 3) select = dice[i][j + 3];	// 윗면을 select에 저장
 						else select = dice[i][j - 3];
