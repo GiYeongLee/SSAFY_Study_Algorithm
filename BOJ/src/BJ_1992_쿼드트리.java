@@ -1,6 +1,4 @@
-
 import java.io.*;
-import java.util.*;
 
 public class BJ_1992_쿼드트리 {
 	

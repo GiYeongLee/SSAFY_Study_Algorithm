@@ -1,4 +1,3 @@
-import java.util.*;
 import java.io.*;
 
 public class BJ_3040_백설공주와일곱난쟁이 {

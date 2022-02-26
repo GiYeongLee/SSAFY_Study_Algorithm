@@ -1,4 +1,3 @@
-import java.util.*;
 import java.io.*;
 
 public class BJ_13300_방배정 {
