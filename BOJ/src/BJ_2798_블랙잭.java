@@ -1,5 +1,4 @@
 import java.io.*;
-import java.util.*;
 
 public class BJ_2798_블랙잭 {
     static int[] arr = new int[3];
