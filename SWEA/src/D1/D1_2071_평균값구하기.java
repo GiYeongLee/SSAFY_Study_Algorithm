@@ -21,6 +21,9 @@ public class D1_2071_평균값구하기 {
 				
 				System.out.printf("#%d %.0f\n", (j + 1), avg);
 			}
+
+			sc.close();
+
 		}
 
 }

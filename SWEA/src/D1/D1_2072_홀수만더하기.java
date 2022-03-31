@@ -20,5 +20,7 @@ public class D1_2072_홀수만더하기 {
 			}
 			System.out.println("#" + (j + 1) + " " + sum);
 		}
+
+		sc.close();
 	}
 }

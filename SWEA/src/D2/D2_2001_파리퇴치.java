@@ -19,7 +19,6 @@ public class D2_2001_파리퇴치 {
 			int M = Integer.parseInt(splited[1]);
 			
 			int[][] arr = new int[N][N];
-			int[][] vis = new int[N][N];
 			int sum = 0;
 			
 			for(int i = 0; i < N; i++) {

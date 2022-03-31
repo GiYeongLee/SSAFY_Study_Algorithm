@@ -1,6 +1,5 @@
 package D4;
 
-import java.util.*;
 import java.io.*;
 
 public class D4_3289_서로소집합 {

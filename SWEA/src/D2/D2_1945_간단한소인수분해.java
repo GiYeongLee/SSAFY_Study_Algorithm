@@ -47,6 +47,8 @@ public class D2_1945_간단한소인수분해 {
 			System.out.println();
 		}
 
+		sc.close();
+
 	}
 
 }

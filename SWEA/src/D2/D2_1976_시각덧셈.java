@@ -36,5 +36,7 @@ public class D2_1976_시각덧셈 {
 		for(int i = 0; i < hour.length; i++) {
 			System.out.println("#" + (i + 1) + " " + hour[i] + " " + min[i]);
 		}
+
+		sc.close();
 	}
 }

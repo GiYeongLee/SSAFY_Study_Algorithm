@@ -17,5 +17,6 @@ public class D1_2063_중간값찾기 {
 		
 		Arrays.sort(arr);
 		System.out.print(arr[(TC / 2)]);
+		sc.close();
 	}
 }

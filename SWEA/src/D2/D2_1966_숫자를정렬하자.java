@@ -20,5 +20,7 @@ public class D2_1966_숫자를정렬하자 {
 			}
 			System.out.println();
 		}
+
+		in.close();
 	}
 }

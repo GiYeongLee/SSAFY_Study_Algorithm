@@ -8,7 +8,6 @@ public class D1_1936_1대1가위바위보 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		String input;
 		
 		int numA = sc.nextInt();
 		int numB = sc.nextInt();
@@ -39,7 +38,7 @@ public class D1_1936_1대1가위바위보 {
 			}
 			break;
 		}
-		
+		sc.close();
 		System.exit(0);
 	}
 	

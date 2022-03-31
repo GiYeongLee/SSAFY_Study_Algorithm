@@ -24,6 +24,6 @@ public class D1_2070_큰놈작은놈같은놈 {
 				System.out.println("#" + t + " " + "=");
 			}
 		}
-		
+		in.close();
 	}
 }

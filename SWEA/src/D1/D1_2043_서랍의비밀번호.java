@@ -10,6 +10,7 @@ public class D1_2043_서랍의비밀번호 {
 		int K = sc.nextInt();
 		
 		System.out.println(P - K + 1);
+		sc.close();
 		System.exit(0);
 	}
 }

@@ -37,5 +37,7 @@ public class D2_1288_새로운불면증치료법 {
 				N = Long.toString((Long.parseLong(N) + k));
 			}
 		}
+
+		in.close();
 	}
 }

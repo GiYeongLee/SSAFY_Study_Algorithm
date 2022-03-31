@@ -13,5 +13,6 @@ public class D1_2046_스탬프찍기 {
 		for(int i = 0; i < N; i++) {
 			System.out.print("#");
 		}
+		sc.close();
 	}
 }

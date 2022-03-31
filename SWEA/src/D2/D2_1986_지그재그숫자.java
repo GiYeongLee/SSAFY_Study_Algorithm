@@ -28,5 +28,7 @@ public class D2_1986_지그재그숫자 {
 			
 			System.out.println("#" + i + " " + sum);
 		}
+
+		sc.close();
 	}
 }

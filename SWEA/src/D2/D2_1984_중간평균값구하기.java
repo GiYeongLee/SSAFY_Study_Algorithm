@@ -23,5 +23,7 @@ public class D2_1984_중간평균값구하기 {
 			}		
 			System.out.printf("#%d %.0f\n", t, (1.0) * (sum - min - max) / 8);
 		}
+
+		in.close();
 	}
 }

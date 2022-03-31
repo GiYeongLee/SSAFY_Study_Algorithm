@@ -1,7 +1,6 @@
 package D4;
 
 import java.io.*;
-import java.util.*;
 
 public class D4_7465_창용마을무리의개수 {
 	

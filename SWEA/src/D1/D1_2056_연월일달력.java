@@ -49,5 +49,6 @@ public class D1_2056_연월일달력 {
 				System.out.println("#" + t + " " + str.substring(0, 4) + "/" + month + "/" + date);
 			}
 		}
+		sc.close();
 	}
 }

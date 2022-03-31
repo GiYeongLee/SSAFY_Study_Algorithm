@@ -36,6 +36,7 @@ public class D2_1284_수도요금경쟁 {
 			}
 			
 		}
+		sc.close();
 
 	}
 

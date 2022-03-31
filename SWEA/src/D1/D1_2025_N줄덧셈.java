@@ -17,6 +17,7 @@ public class D1_2025_N줄덧셈 {
 		}
 		
 		System.out.println(sum);
+		sc.close();
 		System.exit(0);
 	}
 }

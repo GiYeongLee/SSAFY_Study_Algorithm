@@ -33,6 +33,8 @@ public class D2_1989_초심자의회문검사 {
 			}
 			
 		}
+
+		sc.close();
 	}
 	
 }

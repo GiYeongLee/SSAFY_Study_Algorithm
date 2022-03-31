@@ -21,6 +21,8 @@ public class D2_1926_간단한369게임 {
 			System.out.print(counting(splited[i]));
 			System.out.print(" ");
 		}
+
+		sc.close();
 	}
 	
 	static String counting(String temp) {

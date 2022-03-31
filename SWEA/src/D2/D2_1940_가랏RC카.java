@@ -40,5 +40,7 @@ public class D2_1940_가랏RC카 {
 			System.out.println("#" + t + " " + location);
 			
 		}
+
+		in.close();
 	}
 }

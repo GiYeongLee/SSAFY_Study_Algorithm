@@ -10,5 +10,6 @@ public class D1_2047_신문헤드라인 {
 		str = str.toUpperCase();
 		
 		System.out.println(str);
+	in.close();
 	}
 }

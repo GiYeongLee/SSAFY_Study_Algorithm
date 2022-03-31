@@ -30,5 +30,7 @@ public class D2_2005_파스칼의삼각형 {
 				count++;
 			}
 		}
+
+		sc.close();
 	}
 }
