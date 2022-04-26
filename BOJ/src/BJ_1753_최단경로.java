@@ -63,7 +63,6 @@ public class BJ_1753_최단경로 {
 					pq.add(new Node(n.to, distance[n.to]));
 				}
 			}
-
 		}
 		
 		for(int i = 1; i <= V; i++) {
@@ -72,5 +71,4 @@ public class BJ_1753_최단경로 {
 		}
 		System.out.println(builder);
 	}
-	
 }
