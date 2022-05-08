@@ -41,11 +41,7 @@ public class BJ_5212_지구온난화 {
 						int nextX = i + dx[dir];
 						int nextY = j + dy[dir];
 						
-						if(nextX < 0 || nextY < 0 || nextX >= R || nextY >= C) {
-							count++;
-							continue;
-						}
-						if(grid[nextX][nextY] == '.') count++;
+						if(nextX < 0 || nextY < 0 || nextX >= R || nextY >= C || grid[nextX][nextY] == '.') count++;
 					}	
 					if(count >= 3) queue.add(new int[] {i, j});
 				}
