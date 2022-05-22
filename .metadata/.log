@@ -40,3 +40,6 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 
 !ENTRY org.eclipse.recommenders.models.rcp 1 0 2022-05-22 21:02:14.089
 !MESSAGE org.eclipse.recommenders:index::zip:0.0.0 could not be resolved from the model repositories. Are you offline?
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2022-05-22 21:52:36.931
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases/.
