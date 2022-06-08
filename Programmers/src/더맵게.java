@@ -16,6 +16,7 @@ public class 더맵게 {
         for(int i : scoville) pq.add(i);
         
         while(pq.peek() < K) {
+        	if(pq.size() == 1) return -1;
         	pq.add(pq.poll() + (pq.poll() * 2));
         	answer++;
         }
