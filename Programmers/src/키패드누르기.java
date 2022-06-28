@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class 키패드누르기 {
 
 	public static void main(String[] args) {

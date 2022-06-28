@@ -1,5 +1,4 @@
 import java.io.*;
-import java.util.Arrays;
 
 public class BJ_12100_2048 {
 

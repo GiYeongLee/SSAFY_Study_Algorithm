@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class 타겟넘버 {
 
 	public static void main(String[] args) {

@@ -1,5 +1,4 @@
 import java.io.*;
-import java.util.*;
 
 public class BJ_1929_소수구하기 {
 
