@@ -20,7 +20,6 @@ public class BJ_1764_듣보잡 {
 		int M = Integer.parseInt(splited[1]);
 		int count = 0;
 		
-		String[] a = new String[N];
 		
 		for(int i = 0; i < N; i++) {
 			set.add(in.readLine());
