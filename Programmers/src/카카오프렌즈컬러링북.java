@@ -48,7 +48,6 @@ public class 카카오프렌즈컬러링북 {
                             queue.add(new int[] { nextX, nextY });
                         }
                     }
-
                     maxSizeOfOneArea = Math.max(maxSizeOfOneArea, count);
                 }
             }
